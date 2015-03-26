@@ -1,0 +1,15 @@
+body{
+    width: 500px;
+    background-color: aqua;
+    background-image: url("预约时间.png");
+    background-repeat: no-repeat;
+    background-position:right top;
+    background-attachment: fixed;
+    background-size: 100px 500px;
+}
+
+p{
+    width:100px;
+    padding:10px;
+    background-color: #ff1013;
+}
